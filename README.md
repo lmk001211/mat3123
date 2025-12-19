@@ -1,5 +1,5 @@
 # [Project] AI Golf Coach: YOLOv8-Pose를 활용한 기하학적 스윙 분석 및 자세 교정 솔루션
-#### 2023131051 수학과 이민규
+#### 2023131051 수학과 이민규 / 본 프로젝트의 핵심 로직과 실행 코드는 [final project code.ipynb] 파일에서 확인하실 수 있습니다.
 ---
 
 ## 1. 프로젝트 개요 (Project Overview)
